@@ -62,6 +62,10 @@ function App() {
         toggleComplete={toggleComplete}
         editTodo={editTodo}
       />
+
+      <p style={{ marginTop: "20px", fontSize: "12px", color: "#ddd" }}>
+        Keep track of your daily tasks efficiently 🚀
+      </p>
     </div>
   );
 }
