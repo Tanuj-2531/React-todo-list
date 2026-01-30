@@ -48,7 +48,7 @@ Follow these steps to run the project on your system:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-todo-list.git
+git clone https://github.com/Tanuj-2531/React-todo-list
 cd react-todo-list
 ```
 
